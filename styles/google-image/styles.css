@@ -1,0 +1,8 @@
+.logo-container p {
+    color:rgb(0, 85, 255);
+    font-family: 'Roboto';
+    font-size:16px;
+    position: relative;
+    right:50px;
+    top:55px;
+}
